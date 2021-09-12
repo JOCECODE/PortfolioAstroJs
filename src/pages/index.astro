@@ -5,6 +5,8 @@ import Button from '../components/Button/index.jsx';
 import Nav from '../components/Nav/index.jsx';
 import Footer from '../components/Footer/index.jsx';
 import PorfolioPreview from '../components/PortfolioPreview/index.jsx';
+import darkPizza from "../../public/assets/pictures/darkNOOutline.png";
+import coloredPizza from "../../public/assets/pictures/coloredPizza.png";
 
 // Data Fetching: List all Markdown posts in the repo.
 const projects = Astro.fetchContent('./project/**/*.md');
@@ -182,16 +184,23 @@ const featuredProject = projects[0];
           font-size: var(--f-u4);
         }
 
-        .fake-link {
+      
+
+        
+
+      }  
+      
+      .fake-link {
     color: #46b4ff;
     text-decoration: underline;
     cursor: pointer;
+    font-size: 16px;
         }
         .biggerFont {
           font-size: 18px;
           font-style: italic;
         }
-      }
+        
     </style>
   </head>
   <body>
@@ -201,12 +210,7 @@ const featuredProject = projects[0];
         width="1600"
         height="1131"
         class="img"
-        src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=75"
-        srcSet="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=75 800w,
-        https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=75 1200w,
-        https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1600&q=75 1600w,
-        https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=2400&q=75 2400w,"
-        sizes="(max-width: 800px) 800px, (max-width: 1200px) 1200px, (max-width: 1600px) 1600px, (max-width: 2400px) 2400px, 1200px"
+        src="https://i.imgur.com/NhSW1QS.png"
       />
       <div class="gradient" />
       <div class="gradient2" />
@@ -222,7 +226,7 @@ const featuredProject = projects[0];
             🕹 Gamer <span class="invert">🕹 Gamer</span>
           </span>&nbsp;
           <span class="role">
-            🍕 Foodie <span class="invert">🍕 Foodie</span>
+            <img src={coloredPizza} width="18px" height="18px"/>Foodie<span id="shift" class="invert"><img src={darkPizza} width="18px" height="18px"/>Foodie</span>
           </span>
         </div>
         <p class="desc">Full-Stack Web Developer, full-Time Gamer, full-time Eater.</p>
@@ -242,9 +246,13 @@ const featuredProject = projects[0];
         <div class="section">
           <h3 class="sectionTitle">About me</h3>
           <p class="bio">
-            <span>Hello!</span> I’m Jose Ulices Perez Jr. and this is my portfolio. I recently graduated from UCLA Coding Bootcamp Full-Stack Web Development December 17 2020. Currently, I am employed at Downey Unified School District as a <strong class="biggerFont">Senior Instructional Assistant - Behaviorally Challenged</strong> wanting to change careers into the tech field. I am looking for new oppurtunites to grow as a developer and develop my skills. You can reach me at my personal email at <span class="fake-link" id="fake-link-1">jupjr27@gmail.com</span>
+            <span>Hello!</span> I’m Jose Ulices Perez Jr. and this is my portfolio. I recently graduated from UCLA Coding Bootcamp Full-Stack Web Development December 17 2020. Currently, I am employed at Downey Unified School District as a <strong class="biggerFont">Senior Instructional Assistant - Behaviorally Challenged</strong> wanting to change careers into the tech field. I am looking for new oppurtunites to continue to grow as a developer and further develop my programming skills.
           </p>
           
+          <p >
+          You can reach me at my personal email at <span class="fake-link" id="fake-link-1">jupjr27@gmail.com</span>
+          </p>
+
           <p>
             <a href="/about">Read more</a>
           </p>
