@@ -10,7 +10,7 @@ function PortfolioPreview({ project }) {
       <div className="pa3">
         <p className={`${Styles.desc} mt0 mb2`}>{project.description}</p>
         <div className={Styles.tags}>
-          Tagged:
+          
           {project.tags.map((t) => (
             <div className={Styles.tag} data-tag={t}>
               {t}

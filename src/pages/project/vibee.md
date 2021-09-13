@@ -1,15 +1,19 @@
 ---
 layout: ../../layouts/project.astro
-title: tester
+title:
 client: Self
-published_at: 2020-03-02 00:00:12
-img: https://images.unsplash.com/photo-1547234935-80c7145ec969?fit=crop&w=1400&h=700&q=75
+published_at: 2020-03-02 00:00:00
+img: https://i.imgur.com/4S2pWa0.png
 description: |
-  I once married a turkey, an ugly turkey
+  A social media app where the user can write a blurb in which they can analyze their text to find song lyrics based off what they typed.
 tags:
-  - tea
-  - dev
-  - branding
+  - React
+  - Chakra Ui
+  - Google Firebase
+  - MongoDb
+  - Axios
+  - Socket.io
+  - Genius-Lyrics api
 ---
 
 Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
