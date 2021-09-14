@@ -3,7 +3,7 @@ layout: ../../layouts/project.astro
 title: Netflix Clone
 client: Self
 published_at: 2020-03-02 00:00:12
-img: https://i.imgur.com/WVOw5cG.png
+img: /assets/pictures/xilften.png
 description: Front End Ui Netflix Clone.
 tags:
   - Html

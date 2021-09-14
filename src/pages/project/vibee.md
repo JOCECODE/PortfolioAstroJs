@@ -3,9 +3,8 @@ layout: ../../layouts/project.astro
 title:
 client: Self
 published_at: 2020-03-02 00:00:00
-img: https://i.imgur.com/4S2pWa0.png
-description: |
-  A social media app where the user can write a blurb in which they can analyze their text to find song lyrics based off what they typed.
+img: /assets/pictures/vibee.png
+description: A social media app where the user can write a blurb in which they can analyze their text to find song lyrics based off what they typed.
 tags:
   - React
   - Chakra Ui

@@ -3,7 +3,7 @@ layout: ../../layouts/project.astro
 title:
 client: Self
 published_at: 2020-03-02 00:00:00
-img: https://i.imgur.com/DUnnsnH.png
+img: /assets/pictures/passwordGenerator.png
 description: A password generator application where the user can have a unique password generate for them.
 tags:
   - Html
