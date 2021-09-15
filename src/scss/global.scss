@@ -165,3 +165,13 @@ $colors: "black", "blue", "white";
 .pa3 {
   background-color: var(--t-fg);
 }
+
+#black {
+  color: var(--t-fg);
+  text-align: center;
+}
+
+#white {
+  color: white;
+  text-align: center;
+}

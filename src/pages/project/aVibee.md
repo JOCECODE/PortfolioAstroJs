@@ -1,19 +1,21 @@
 ---
 layout: ../../layouts/project.astro
-title: Netflix Clone
+title: Social Media Application
+font: white
 client: Self
-published_at: 2020-03-02 00:00:12
-img: /assets/pictures/xilften.png
-description: Front End Ui Netflix Clone.
+published_at: 2020-03-02 00:00:00
+img: /assets/pictures/vibee.png
+description: A social media app where the user can write a blurb in which they can analyze their text to find song lyrics based off what they typed.
 tags:
-  - Html
-  - Css
   - React
-  - Firebase
-  - React-Player
+  - Chakra Ui
+  - Google Firebase
+  - MongoDb
+  - Axios
+  - Socket.io
 ---
 
-link to deployed site https://xilften-cb7c8.web.app/
+Link to deployed Website https://evening-sands-41595.herokuapp.com/
 
 Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
 

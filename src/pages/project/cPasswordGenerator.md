@@ -1,21 +1,17 @@
 ---
 layout: ../../layouts/project.astro
-title:
+title: Unique Password Generator
+font: black
 client: Self
 published_at: 2020-03-02 00:00:00
-img: /assets/pictures/vibee.png
-description: A social media app where the user can write a blurb in which they can analyze their text to find song lyrics based off what they typed.
+img: /assets/pictures/passwordGenerator.png
+description: A password generator that creates a unique password for the user.
 tags:
-  - React
-  - Chakra Ui
-  - Google Firebase
-  - MongoDb
-  - Axios
-  - Socket.io
-  - Genius-Lyrics api
+  - Html
+  - Javascript
 ---
 
-Link to deployed Website https://evening-sands-41595.herokuapp.com/
+Link to deployed website https://jocecode.github.io/Password-Generator/
 
 Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
 

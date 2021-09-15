@@ -3,14 +3,15 @@ layout: ../../layouts/project.astro
 title:
 client: Self
 published_at: 2020-03-02 00:00:00
-img: /assets/pictures/passwordGenerator.png
-description: A password generator application where the user can have a unique password generate for them.
+img: /assets/pictures/fitnessTracker.png
+description: In this application, the user can either choose to continue their last workout or make a new workout. Each workout consists of exercises that can be named and stores depending on which workout the user is in. The application displays the users last workout and shows the total amount of time they spent working out. The user can update their workouts by adding in new exercises that will then get stored for them in the database. Workouts have a date and a unique idea for each to be able to reference the workouts easier. The application also features a visual display of the users data in the form of graphs such as a pie graph and a line graph.
 tags:
   - Html
+  - Css
   - Javascript
 ---
 
-Link to deployed website https://jocecode.github.io/Password-Generator/
+Link to deployed website https://evil-fangs-66387.herokuapp.com/
 
 Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
 
