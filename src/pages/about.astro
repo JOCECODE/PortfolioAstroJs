@@ -2,6 +2,7 @@
 import MainHead from '../components/MainHead.astro';
 import Footer from '../components/Footer/index.jsx';
 import Nav from '../components/Nav/index.jsx';
+import FamPic from "../../public/assets/pictures/familyPose.png";
 
 ---
 
@@ -29,7 +30,7 @@ import Nav from '../components/Nav/index.jsx';
     <div class="wrapper">
       <h1>About Mr. Perez</h1>
       <div class="heroImg">
-        <img width="1400" height="350" src="assets/pictures/familyPose.png" />
+        <img width="1400" height="350" src={FamPic} />
       </div>
       <div class="bio wrapper wrapper__readable mt8">
         <p>
