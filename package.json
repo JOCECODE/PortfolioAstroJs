@@ -9,7 +9,10 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "astro": "^0.20.3",
-    "@astrojs/renderer-preact": "^0.2.1"
+    "@astrojs/renderer-preact": "^0.2.1",
+    "astro": "^0.20.3"
+  },
+  "dependencies": {
+    "firebase-tools": "^9.18.0"
   }
 }
