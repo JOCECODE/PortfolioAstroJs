@@ -1,19 +1,4 @@
-Link to deployed website \*coming soon
+Link to deployed website https://portfolio-869fa.web.app/
 
-Link to deployed website \*coming soon
+coming soon https://joseulicesperezjr.com/
 
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
-
-Link to deployed website \*coming soon
