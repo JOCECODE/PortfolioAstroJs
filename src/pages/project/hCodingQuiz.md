@@ -14,12 +14,16 @@ tags:
 
 Link to deployed website https://jocecode.github.io/Coding-Game/
 
-Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
+# Coding Game
 
-Smelly cheese stinking bishop roquefort. Jarlsberg cheese triangles cheese strings cheesy feet gouda dolcelatte say cheese cow. Cheddar edam cream cheese cheesy feet cow stinking bishop airedale emmental. Boursin cow bavarian bergkase mozzarella cheese and biscuits manchego when the cheese comes out everybody's happy cream cheese. Cheese on toast st. agur blue cheese croque monsieur halloumi.
+## Description
 
-Fromage frais jarlsberg st. agur blue cheese. Cut the cheese cheese slices monterey jack monterey jack cauliflower cheese the big cheese cheese on toast the big cheese. Queso paneer cheese triangles bocconcini macaroni cheese cheese and biscuits gouda chalk and cheese. Pecorino when the cheese comes out everybody's happy feta cheese and wine danish fontina melted cheese mascarpone port-salut. When the cheese comes out everybody's happy pecorino cottage cheese.
+In this game, the first page has the title CODING QUIZ in the header. Instructions on the game and "START" button. When the user clicks "START" button it navigates to the GAMESTART.html. It has a timer of 60 seconds, title CODING QUIZ, score, question being asked, and 4 buttons with answers to choose from. If the user clicks an incorrect answer the button will turn red and 5 seconds will be deducted from the timer. If the user clicks the correct answer the button will turn green and a "click to continue" button will appear. Until the user clicks this button the game will not render a new questions and answers. The game is over once the timer reaches 0 or if the user answers all 10 questions. GAMEOVER has a title GAMEOVER, a form where the user can submit their name and save their name and score after hitting key "enter", 2 buttons "clear scores" will clear all saved scores and "startover" that will take the user to the start page and a list with all saved scores.
 
-Caerphilly parmesan manchego. Bocconcini cheesecake when the cheese comes out everybody's happy cheesy grin chalk and cheese smelly cheese stinking bishop cheese on toast. Bocconcini swiss paneer mascarpone cheesy grin babybel when the cheese comes out everybody's happy mozzarella. Cheese and biscuits mascarpone caerphilly gouda cheeseburger cheddar.
+## Contact
 
-Cheese and biscuits cheesy grin roquefort. Ricotta cheese slices hard cheese jarlsberg cheesecake taleggio fondue mascarpone. Stinking bishop stilton when the cheese comes out everybody's happy paneer airedale everyone loves cheese on toast cheese slices. Ricotta cut the cheese cheese triangles babybel cream cheese ricotta.
+GitHub: https://github.com/JOCECODE
+
+Email: jocecode27@gmail.com
+
+Feel free to email me with any questions with the application or troubleshooting. Provide your name and or contact info and I will get back to you ASAP.

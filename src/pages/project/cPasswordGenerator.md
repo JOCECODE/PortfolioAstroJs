@@ -5,7 +5,7 @@ font: black
 client: Self
 published_at: 2020-03-02 00:00:00
 img: /assets/pictures/passwordGenerator.png
-description: A password generator that creates a unique password for the user.
+description: A unique password generator.
 tags:
   - Html
   - Javascript
@@ -13,12 +13,8 @@ tags:
 
 Link to deployed website https://jocecode.github.io/Password-Generator/
 
-Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
+# Password Generator
 
-Smelly cheese stinking bishop roquefort. Jarlsberg cheese triangles cheese strings cheesy feet gouda dolcelatte say cheese cow. Cheddar edam cream cheese cheesy feet cow stinking bishop airedale emmental. Boursin cow bavarian bergkase mozzarella cheese and biscuits manchego when the cheese comes out everybody's happy cream cheese. Cheese on toast st. agur blue cheese croque monsieur halloumi.
+## Description
 
-Fromage frais jarlsberg st. agur blue cheese. Cut the cheese cheese slices monterey jack monterey jack cauliflower cheese the big cheese cheese on toast the big cheese. Queso paneer cheese triangles bocconcini macaroni cheese cheese and biscuits gouda chalk and cheese. Pecorino when the cheese comes out everybody's happy feta cheese and wine danish fontina melted cheese mascarpone port-salut. When the cheese comes out everybody's happy pecorino cottage cheese.
-
-Caerphilly parmesan manchego. Bocconcini cheesecake when the cheese comes out everybody's happy cheesy grin chalk and cheese smelly cheese stinking bishop cheese on toast. Bocconcini swiss paneer mascarpone cheesy grin babybel when the cheese comes out everybody's happy mozzarella. Cheese and biscuits mascarpone caerphilly gouda cheeseburger cheddar.
-
-Cheese and biscuits cheesy grin roquefort. Ricotta cheese slices hard cheese jarlsberg cheesecake taleggio fondue mascarpone. Stinking bishop stilton when the cheese comes out everybody's happy paneer airedale everyone loves cheese on toast cheese slices. Ricotta cut the cheese cheese triangles babybel cream cheese ricotta.
+This project features a Password generator that asks the user "how long do you want your password". It MUST BE BETWEEN 8-128 characters long. If the user DOES NOT enter a NUMBER value between 8-128 or a NUMBER, it will PROMPT AGAIN asking "how long do you want your password" until it's a NUMBER and the value is between 8-128. It then asks 4 more questions asking if they want the password to have at least one NUMBER, at least one SPECIAL CHARACTER, at least one UPPERCASE LETTER, and or at least one LOWERCASE LETTER. If the user does not pick one of the selections (NUMBER, SPECIAL CHARACTER, UPPERCASE LETTER, LOWERCASE LETTER) it will repeat the prompt again until at least one is selected. When the user clicks the generate password button a Password with the selected criteria (NUMBER, SPECIAL CHARACTER, UPPERCASE LETTER, LOWERCASE LETTER, LENGTH) will appear. The generate password button then becomes disabled and the displayed password can be copied and pasted.

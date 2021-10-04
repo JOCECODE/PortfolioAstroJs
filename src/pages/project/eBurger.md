@@ -14,12 +14,59 @@ tags:
 
 Link to deployed website https://polar-lake-43753.herokuapp.com/
 
-Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
+# EAT-DA-BURGER
 
-Smelly cheese stinking bishop roquefort. Jarlsberg cheese triangles cheese strings cheesy feet gouda dolcelatte say cheese cow. Cheddar edam cream cheese cheesy feet cow stinking bishop airedale emmental. Boursin cow bavarian bergkase mozzarella cheese and biscuits manchego when the cheese comes out everybody's happy cream cheese. Cheese on toast st. agur blue cheese croque monsieur halloumi.
+## Description
 
-Fromage frais jarlsberg st. agur blue cheese. Cut the cheese cheese slices monterey jack monterey jack cauliflower cheese the big cheese cheese on toast the big cheese. Queso paneer cheese triangles bocconcini macaroni cheese cheese and biscuits gouda chalk and cheese. Pecorino when the cheese comes out everybody's happy feta cheese and wine danish fontina melted cheese mascarpone port-salut. When the cheese comes out everybody's happy pecorino cottage cheese.
+In this application, the user can post new burger names and then click the "devour" button to send it to the devour side of the page. It will help
+to organize what burgers are being eaten also, what new burgers are
+ready to be eaten. It is a way to show different states of the burger on click. Either it's Devoured or Ready to eat.
 
-Caerphilly parmesan manchego. Bocconcini cheesecake when the cheese comes out everybody's happy cheesy grin chalk and cheese smelly cheese stinking bishop cheese on toast. Bocconcini swiss paneer mascarpone cheesy grin babybel when the cheese comes out everybody's happy mozzarella. Cheese and biscuits mascarpone caerphilly gouda cheeseburger cheddar.
+## User-Story
 
-Cheese and biscuits cheesy grin roquefort. Ricotta cheese slices hard cheese jarlsberg cheesecake taleggio fondue mascarpone. Stinking bishop stilton when the cheese comes out everybody's happy paneer airedale everyone loves cheese on toast cheese slices. Ricotta cut the cheese cheese triangles babybel cream cheese ricotta.
+As a burger shop owner,
+I want to be able to make new burger names
+and POST onto the webpage. Then, when I click
+"Devour" sends puts it into another group to
+know what is being eaten and not.
+
+## Installation&Usage
+
+- Must download and install [Node](https://nodejs.org/en/download/)
+
+  - [express](https://www.npmjs.com/package/express)
+  - [express-handlebars](https://www.npmjs.com/package/express-handlebars)
+  - [mysql](https://www.npmjs.com/package/mysql)
+
+- User-Flow
+  - Using the _server.js_ as a an entry point then running `npm start` on the terminal will start the application. The application starts. From there, the user can cycle through a list of commands that can `add delete or view employees and roles` as see pleased. Before running the application use the `schema.sql` and `seeds.sql` to create the database and tables needed to hold the information.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/) Copyright (c) 2020 Jose Ulices Perez Jr.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Contact
+
+GitHub: https://github.com/JOCECODE
+
+Email: jocecode27@gmail.com
+
+Feel free to email me with any questions with the application or troubleshooting. Provide your name and or contact info and I will get back to you ASAP.
